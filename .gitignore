@@ -12,3 +12,6 @@
 *.out
 *.synctex
 *.toc
+
+### Mac
+.DS_Store
